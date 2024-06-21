@@ -1,2 +1,3 @@
 # ni3-demo
-Demo repo
+This is my Demo repo
+Author: Nitin Thokare
